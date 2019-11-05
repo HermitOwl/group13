@@ -1,1 +1,35 @@
-michal
+Video Playlist (Youtube)
+https://www.youtube.com/watch?v=oFR6u9_lnoY&list=PLx-akFBbUpicQGil1uoQDmAolWX3vuEcB
+
+Ferris Wheel Construction
+http://www.madehow.com/Volume-6/Ferris-Wheel.html
+
+Twister (Scrambler) Wiki
+https://en.wikipedia.org/wiki/Scrambler_(ride)
+
+Twister vector mathematics
+http://archives.math.utk.edu/CTM/SIXTH/McMullin-2/paper.html
+
+
+
+Using MEL
+https://courses.cs.washington.edu/courses/cse459/06wi/help/mayaguide/Complete/MEL_Expressions.pdf
+
+
+Using PlayBlast 
+https://knowledge.autodesk.com/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Maya-Animation/files/GUID-1C6EDC8D-DA67-490E-81F1-1205336DEBD9-htm.html
+
+
+
+Ferris Wheel Movement info
+
+“Motor” / “Bearing” in the centre of the wheel. 
+Capsules/ passenger cabins maintain orientation regardless of position in space
+Cabins “bob” subtly when moving  from point to point in space as though momentarily maintaining inertia
+Points on ferris wheel created by subdividing based on number of cabins  
+(x − a)2 + (y − b)2 = r2 For use in calculating the position of each cabin in vertical space
+May need to replace specific axes where applicable
+
+Twister Movement Info
+Seating rotates counter to main central movement.
+Note centripetal forces causing differences in speed inward and outwards
